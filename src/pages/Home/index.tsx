@@ -9,7 +9,7 @@ function Home() {
 
   return (
     <div>
-      <button className={'text-6xl'} onClick={goAboutPage}>点击跳转到about页面</button>
+      <button className={'text-6xl'} onClick={goAboutPage}>点击跳转到about页面，我爱你们</button>
     </div>
   );
 }
